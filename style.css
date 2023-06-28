@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.explanation {
+    padding: 5px 0 40px;
+    margin: 0;
+}
+#result {
+    width: 70px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(234, 50, 33);
+    color: #fff;
+    font-size: 20px;
+    margin: 16px auto 16px;
+    padding-top: 20px;
+}
